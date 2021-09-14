@@ -1,2 +1,2 @@
 # React
-Repo to quickly recap React concept
+Repo to quickly recap React concepts
