@@ -5,4 +5,4 @@ Repo to quickly recap React concepts
 ![react](./images/1_React_Import.png)
 
 ## React Component
-![react_component](./images/1_React_Component.png)
+![react_component](./images/2_React_Component.png)
